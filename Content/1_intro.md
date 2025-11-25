@@ -8,7 +8,7 @@ Whether JB2 is the right choice for you depends on your specific needs. Below is
 ::::{tab-set}
 :::{tab-item} JB 2
 **pros:**
-- High quality pdf with ease (do you see this)
+- High quality pdf with ease do you see this
 - Newest technology, still in development
 - Used in science publication
 
